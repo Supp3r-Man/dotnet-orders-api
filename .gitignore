@@ -1,0 +1,12 @@
+bin/
+obj/
+TestResults/
+StrykerOutput/
+.tools/
+.vs/
+*.user
+*.db
+*.db-shm
+*.db-wal
+*.log
+__pycache__/
