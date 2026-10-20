@@ -302,6 +302,6 @@ exception handler carry `Cache-Control: no-cache,no-store`; framework 404/405 do
 git clone https://github.com/Supp3r-Man/dotnet-orders-api.git
 ```
 
-CI not yet confirmed.
+CI ran green on the first run on GitHub Actions (ubuntu-latest, 2026-10-20).
 
 MIT, see [LICENSE](LICENSE).
